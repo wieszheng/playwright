@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 26 18:09:12 CST 2023","Sat Aug 26 18:09:12 CST 2023","0","testcase","test_baidu","TestPlaceOrder","","","选择商品不加入购物车立即购买下单","校验立即购买下单功能是否正常"
+"passed","Sat Aug 26 18:09:11 CST 2023","Sat Aug 26 18:09:11 CST 2023","0","testcase","test_baidu","testShoppingTrolley","","","正向用例--将库存数>0的商品加入购物车","校验库存数不为0的商品加入购物车是否正常"
+"passed","Sat Aug 26 18:09:13 CST 2023","Sat Aug 26 18:09:16 CST 2023","3053","testcase","test_baidu_2","test_openbaidu","","","百度","打开百度页面验证地址"
+"passed","Sat Aug 26 18:09:11 CST 2023","Sat Aug 26 18:09:11 CST 2023","0","testcase","test_baidu","testShoppingTrolley","","","查询购物车单个商品的数量","校验查询购物车单个商品的数量是否正常"
+"passed","Sat Aug 26 18:09:11 CST 2023","Sat Aug 26 18:09:11 CST 2023","0","testcase","test_baidu","testShoppingTrolley","","","异常用例--将库存数=0的商品加入购物车","校验库存数为0的商品加入购物车是否提示正确的错误信息"
+"passed","Sat Aug 26 18:09:12 CST 2023","Sat Aug 26 18:09:12 CST 2023","1","testcase","test_baidu","TestPlaceOrder","","","商品加入购物车再下单","校验清购物车下单功能是否正常"
+"passed","Sat Aug 26 18:09:11 CST 2023","Sat Aug 26 18:09:11 CST 2023","0","testcase","test_baidu","testShoppingTrolley","","","加入商品后再清空购物车","校验清空购物车接口功能是否正常"
